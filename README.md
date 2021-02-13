@@ -1,2 +1,2 @@
 # QOSF_Mentorship_Task
-Solution of TASK 3 for the QOSF Mentorship Program
+Hi! Here I present a solution to TASK 3 for the QOSF Mentorship Program
