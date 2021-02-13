@@ -12,6 +12,6 @@ The quantum simulator has the following features:
 - Displays the circuit diagram for any circuit input
 
 The notebook also contains examples where the usage of almost all of these features has been shown. 
-It also includes the implementation of some algorithms to show all the features can be used collectively.
+It also includes the implementation of some algorithms to show how all the features can be used collectively.
 
 Thank you!
