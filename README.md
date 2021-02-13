@@ -1,7 +1,7 @@
 # QOSF_Mentorship_Task
 Hi! Here I present a solution to TASK 3 for the QOSF Mentorship Program.
 
-You can find the solution in the jupyter notebook `QOSF Screening Task.ipynb`.
+You can find the solution in the jupyter notebook `QOSF Screening Task.ipynb`. You can also click [here](https://nbviewer.jupyter.org/github/tgag17/QOSF_Mentorship_Task/blob/main/QOSF%20Screening%20Task.ipynb) to open the notebook in nbviewer online if some markdowns have not been rendered properly.
 
 The quantum simulator has the following features:
 - Does custom initialization of any number of qubits
